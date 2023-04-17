@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <title>HeartRover — Explore new romances. </title>
         <meta
           name="title"
-          content="Flirtify — The Future of Flirting is Here"
+          content="HeartRover — Explore new romances."
         />
         <meta
           name="description"
@@ -20,10 +20,10 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel="icon" href="https://flirtify.vercel.app/icon.png"></link>
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://flirtify.vercel.app/" />
+        <meta property="og:url" content="https://heartrover.vercel.app/" />
         <meta
           property="og:title"
-          content="Flirtify — The Future of Flirting is Here"
+          content="HeartRover — Explore new romances."
         />
         <meta
           property="og:description"
@@ -35,10 +35,10 @@ function MyApp({ Component, pageProps }: AppProps) {
         />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://flirtify.vercel.app/" />
+        <meta property="twitter:url" content="https://heartrover.vercel.app/" />
         <meta
           property="twitter:title"
-          content="Flirtify — The Future of Flirting is Here"
+          content="HeartRover — Explore new romances."
         />
         <meta
           property="twitter:description"
