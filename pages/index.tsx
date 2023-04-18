@@ -153,6 +153,23 @@ const Home: NextPage = () => {
         promptEnd: "",
       },
     },
+    // https://img.freepik.com/free-vector/dominatrix-woman-bdsm-latex-costume-with-fetish_33099-2212.jpg
+
+    {
+      title: "Naughty",
+      imageURL:
+        "https://img.freepik.com/free-vector/dominatrix-woman-bdsm-latex-costume-with-fetish_33099-2212.jpg",
+      description:
+        "Baby, let's play football together and both of us can be Messi together.",
+      accentColor: "blue",
+      popupContent: {
+        title: "What is your ",
+        annotatedText: "fav S*x Positions",
+        placeholder: "eg: Doggy Reverse cowgi*l, Standing O",
+        promptStart: "Write 5 hardcore pick-up lines relating to ",
+        promptEnd: "",
+      },
+    },
     {
       title: "Celebrity",
       imageURL:
